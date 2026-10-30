@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+credentials.json
+token.json
+__pycache__/
+*.pyc
+client_secret*.json
+
+# Variáveis de ambiente
+.env
+
+# VSCode
+.vscode/
